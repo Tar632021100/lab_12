@@ -1,10 +1,8 @@
 import 'package:lab12/pages/home_page.dart';
 import 'package:lab12/pages/register_page.dart';
 import 'package:flutter/material.dart';
-import 'package:lab12/pages/register_page.dart';
 
 import '../services/auth_service.dart';
-import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

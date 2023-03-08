@@ -26,8 +26,8 @@ class _HomePageState extends State<HomePage> {
             shrinkWrap: true,
             children: [
               addDataSection(),
-              showOnetimeRead(),
-              showRealtimeChange(),
+              // showOnetimeRead(),
+              // showRealtimeChange(),
             ],
           ),
         ),

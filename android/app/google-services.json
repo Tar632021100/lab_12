@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589371948155",
+    "project_id": "lab12-it-firestore-5352b",
+    "storage_bucket": "lab12-it-firestore-5352b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589371948155:android:52fcb8b3ed3877ed8bf6de",
+        "android_client_info": {
+          "package_name": "com.example.lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589371948155-cdo2qda1fdfcrl30a8nq5mmrmlp9hjqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC721ptuhUs1VK0qB67tPLk0FqILuQ3gHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589371948155-cdo2qda1fdfcrl30a8nq5mmrmlp9hjqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
